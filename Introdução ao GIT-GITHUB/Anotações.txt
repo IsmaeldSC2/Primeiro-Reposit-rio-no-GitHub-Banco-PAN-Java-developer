@@ -1,0 +1,2 @@
+Link para o download do Git:https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%c3%b3rio-Git
+O Git é um terminal extendido para otimizar o uso do GitHub
